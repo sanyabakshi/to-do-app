@@ -77,6 +77,6 @@ todo-app/
 
 ## 🙌 Acknowledgement
 
-This project was built as a beginner-friendly full-stack practice to improve development skills and GitHub portfolio.
+This is my first project and I built this as a part of my learning journey. I learned building, debugging and improving things on my own.
 
 ---
