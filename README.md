@@ -1,5 +1,6 @@
-✏️ Cute To-Do List App 💖
-A simple yet cute and visually appealing To-Do list web application that helps user manage their daily tasks efficiently with cute and modern interface.
+# ✏️ Cute To-Do List App 💖
+
+* A simple yet cute and visually appealing To-Do list web application that helps user manage their daily tasks efficiently with cute and modern interface.
 ---
 
 ## 🚀 Features
